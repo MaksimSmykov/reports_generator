@@ -10,7 +10,7 @@
 > 
 >  where:
 > - `main.py` - executable file name
-> - `data1.csv data2.csv data3.csv` - names of source files with data, separated by whitespace
+> - `data1.csv data2.csv data3.csv` - names of source files with data (only .csv), separated by whitespace
 > - `--report payout` - command to send the name of the report
 > - `--extension json` - command to send the format for saving the report to a file
 
